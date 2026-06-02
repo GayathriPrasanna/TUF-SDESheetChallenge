@@ -28,6 +28,29 @@
 
 ---
 
+## 📅 Day-2 (Arrays) ✅
+
+### 🔹 Problems Solved
+
+1. **Sort Colors** (LeetCode 75)  
+🔗 Problem: https://leetcode.com/problems/sort-colors/  
+💻 Solution: https://github.com/GayathriPrasanna/TUF-SDESheetChallenge/tree/main/75-sort-colors  
+
+---
+
+2. **Maximum Subarray** (LeetCode 53)  
+🔗 Problem: https://leetcode.com/problems/maximum-subarray/  
+💻 Solution: https://github.com/GayathriPrasanna/TUF-SDESheetChallenge/tree/main/53-maximum-subarray  
+
+---
+
+3. **Best Time to Buy and Sell Stock** (LeetCode 121)  
+🔗 Problem: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/  
+💻 Solution: https://github.com/GayathriPrasanna/TUF-SDESheetChallenge/blob/main/121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.java  
+
+---
+
 ## 📈 Progress
 - Day-1 ✅
-- Day-2 ⏳
+- Day-2 ✅
+- Day-3 ⏳
