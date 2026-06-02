@@ -12,13 +12,13 @@
 
 1. **Next Permutation** (LeetCode 31)  
 🔗 Problem: https://leetcode.com/problems/next-permutation/  
-💻 Solution: https://github.com/GayathriPrasanna/TUF-SDESheetChallenge/blob/main/Day-1/Arrays/next-permutation.java  
+💻 Solution: https://github.com/GayathriPrasanna/TUF-SDESheetChallenge/blob/main/31-next-permutation/next-permutation.java    
 
 ---
 
 2. **Pascal’s Triangle** (LeetCode 118)  
 🔗 Problem: https://leetcode.com/problems/pascals-triangle/  
-💻 Solution: https://github.com/GayathriPrasanna/TUF-SDESheetChallenge/blob/main/Day-1/Arrays/pascals-triangle.java  
+💻 Solution: https://github.com/GayathriPrasanna/TUF-SDESheetChallenge/blob/main/118-pascals-triangle/pascals-triangle.java  
 
 ---
 
