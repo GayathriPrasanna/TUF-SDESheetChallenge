@@ -50,7 +50,32 @@
 
 ---
 
+## 📅 Day-3 (Arrays Part-II) ✅
+
+### 🔹 Problems Solved
+
+1. **Rotate Matrix by 90 Degrees**
+   🔗 Problem: https://takeuforward.org/data-structure/rotate-image-by-90-degree/
+   💻 Solution: Not uploaded due to issue
+
+---
+
+2. **Merge Overlapping Subintervals**
+   🔗 Problem: https://takeuforward.org/data-structure/merge-overlapping-sub-intervals/
+   💻 Solution: https://github.com/GayathriPrasanna/TUF-SDESheetChallenge/commit/548f798d7671d4d9399f0c1201c92ad0fb2a3773
+
+---
+
+3. **Merge Two Sorted Arrays Without Extra Space**
+   🔗 Problem: https://takeuforward.org/data-structure/merge-two-sorted-arrays-without-extra-space/
+   💻 Solution: https://github.com/GayathriPrasanna/TUF-SDESheetChallenge/commit/548f798d7671d4d9399f0c1201c92ad0fb2a3773
+
+---
+
+
 ## 📈 Progress
 - Day-1 ✅
 - Day-2 ✅
-- Day-3 ⏳
+- Day-3 ✅
+- Day-4 ✅
+- Day-5 ✅
