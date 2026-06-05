@@ -72,6 +72,29 @@
 
 ---
 
+## 📅 Day-4 (Arrays Part-III) ✅
+
+### 🔹 Problems Solved
+
+1. **Find the Duplicate Number**
+   🔗 Problem: https://leetcode.com/problems/find-the-duplicate-number/
+   💻 Solution: https://github.com/GayathriPrasanna/TUF-SDESheetChallenge/commit/5e2c7613d0a3f581cd760509585332d3ae425c40
+
+---
+
+2. **Find the Repeating and Missing Number**
+   🔗 Problem: https://takeuforward.org/data-structure/find-the-repeating-and-missing-numbers/
+   💻 Solution: https://github.com/GayathriPrasanna/TUF-SDESheetChallenge/commit/c779af4e8284eb6fb546eedf970061950f6092d8
+
+---
+
+3. **Inversion of Array (Using Merge Sort)**
+   🔗 Problem: https://takeuforward.org/data-structure/count-inversions-in-an-array/
+   💻 Solution: Not uploaded due to issue
+
+---
+
+
 
 ## 📈 Progress
 - Day-1 ✅
