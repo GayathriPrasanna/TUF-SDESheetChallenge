@@ -50,7 +50,7 @@
 
 ---
 
-## 📅 Day-3 (Arrays Part-II) ✅
+## 📅 Day-3 (Arrays Part-I) ✅
 
 ### 🔹 Problems Solved
 
@@ -72,7 +72,7 @@
 
 ---
 
-## 📅 Day-4 (Arrays Part-III) ✅
+## 📅 Day-4 (Arrays Part-II) ✅
 
 ### 🔹 Problems Solved
 
@@ -93,6 +93,29 @@
    💻 Solution: Not uploaded due to issue
 
 ---
+
+## 📅 Day-5 (Arrays Part-III) ✅
+
+### 🔹 Problems Solved
+
+1. **Search in a 2D Matrix**
+   🔗 Problem: https://leetcode.com/problems/search-a-2d-matrix/
+   💻 Solution: https://github.com/GayathriPrasanna/TUF-SDESheetChallenge/commit/a4747ddde4b9b07a6d9dc4c92c939daf424b830f
+
+---
+
+2. **Pow(x, n)**
+   🔗 Problem: https://leetcode.com/problems/powx-n/
+   💻 Solution: https://github.com/GayathriPrasanna/TUF-SDESheetChallenge/commit/c02a07187569b4bb3e08b23b0221619a9e732e57
+
+---
+
+3. **Majority Element-I**
+   🔗 Problem: https://leetcode.com/problems/majority-element/
+   💻 Solution: https://github.com/GayathriPrasanna/TUF-SDESheetChallenge/commit/23d2ae0778ff220ad6a9bd3796a5fc2fef2607b7
+
+---
+
 
 
 
