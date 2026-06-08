@@ -115,6 +115,35 @@
    💻 Solution: https://github.com/GayathriPrasanna/TUF-SDESheetChallenge/commit/23d2ae0778ff220ad6a9bd3796a5fc2fef2607b7
 
 ---
+## 📅 Day-6 (Arrays / Divide & Conquer / DP) ✅
+
+### 🔹 Problems Solved
+
+1. **Majority Element II** (LeetCode 229)
+   🔗 Problem: https://leetcode.com/problems/majority-element-ii/
+   💻 Solution: https://github.com/GayathriPrasanna/TUF-SDESheetChallenge/commit/6d42c299ad5eb3cb8e40cca8f2bd7bf4f08d1735
+
+---
+
+2. **Reverse Pairs** (LeetCode 493)
+   🔗 Problem: https://leetcode.com/problems/reverse-pairs/
+   💻 Solution: https://github.com/GayathriPrasanna/TUF-SDESheetChallenge/commit/d8eaceb0e0dad7ad297dceb15f2beb1ad61226a4
+
+---
+
+3. **Unique Paths** (LeetCode 62)
+   🔗 Problem: https://leetcode.com/problems/unique-paths/
+   💻 Solution: https://github.com/GayathriPrasanna/TUF-SDESheetChallenge/commit/d60670b246b67641daf37f59f2358a77dc1d78dc
+
+---
+
+### 💡 Key Learnings
+
+* Majority Element II → **Boyer-Moore Voting Algorithm (n/3 case)**
+* Reverse Pairs → **Merge Sort + Two Pointers optimization**
+* Unique Paths → **Dynamic Programming (Grid) + Combinatorics insight**
+
+---
 
 
 
@@ -125,3 +154,4 @@
 - Day-3 ✅
 - Day-4 ✅
 - Day-5 ✅
+- Day-6 ✅
